@@ -1,5 +1,7 @@
 # **Domain Proyek: Prediksi Suhu Air Sungai OYO Gunungkidul Menggunakan LSTM**
 
+![alt text](image.png)
+
 #### **Latar Belakang**
 
 Perubahan suhu air di berbagai badan air, seperti sungai atau kolam, sangat dipengaruhi oleh faktor lingkungan seperti suhu udara dan kelembapan. Suhu air yang tidak terpantau dengan baik dapat berdampak negatif pada ekosistem perairan dan bahkan bisa mengganggu sistem irigasi atau pengolahan air.
